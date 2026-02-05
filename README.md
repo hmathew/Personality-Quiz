@@ -1,4 +1,4 @@
-# Personality Quiz 🧠✨
+# Personality Quiz 
 
 This project is a simple interactive personality quiz built using HTML, CSS, and JavaScript. Users answer fashion-based questions, and based on their choices, the quiz determines whether they are an introvert or an extrovert.
 
@@ -10,7 +10,7 @@ This project is a simple interactive personality quiz built using HTML, CSS, and
 ├── script.js    # JavaScript file that handles quiz logic
 └── assets/      # Folder containing all image files used in the quiz
 
-## 🧩 How It Works
+## How It Works
 
 1. The quiz asks three questions, each with two answer choices.
 2. Each answer choice is linked to either introvert or extrovert behavior.
@@ -19,13 +19,13 @@ This project is a simple interactive personality quiz built using HTML, CSS, and
    - The number of questions answered increases.
 4. After all three questions are answered, the final result is displayed.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML – structures the quiz content  
 - CSS – styles the layout, images, and buttons  
 - JavaScript – adds interactivity and determines the quiz result  
 
-## 📄 File Breakdown
+## File Breakdown
 
 ### index.html
 - Displays quiz questions, images, and buttons
@@ -41,14 +41,14 @@ This project is a simple interactive personality quiz built using HTML, CSS, and
 - Uses event listeners to handle button clicks
 - Displays the final personality result
 
-## ✅ Quiz Logic
+## Quiz Logic
 
 - Each answer increases either the introvertScore or extrovertScore
 - After 3 questions:
   - Extrovert score ≥ 2 → "You are an extrovert!"
   - Introvert score ≥ 2 → "You are an introvert!"
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1. Download or clone the project files
 2. Make sure all images are inside the assets folder
